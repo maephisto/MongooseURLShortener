@@ -1,10 +1,10 @@
 {
   "name": "mongoose-url-shortener",
   "description": "mongoose-url-shortener",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "author": {
-    "name": "DropShape",
-    "email": "admin AT dropshape.com"
+    "name": "Marius Mischie",
+    "email": "marius.mischie AT maryme.de"
   },
   "keywords": [
     "url shortener",
@@ -20,13 +20,13 @@
     "node": ">=0.10.x"
   },
   "bugs": {
-    "url": "https://github.com/dropshape/mongooseurlshortener/issues"
+    "url": "https://github.com/maephisto/MongooseURLShortener/issues"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/dropshape/mongooseurlshortener"
+    "url": "https://github.com/maephisto/MongooseURLShortener"
   },
-  "homepage": "https://github.com/dropshape/mongooseurlshortener",
+  "homepage": "",
   "readmeFilename": "README.md",
   "dependencies": {
     "lodash": "~1.3.1",
